@@ -1,0 +1,12 @@
+[
+  {"Documento":100,
+  "Nombre":"Pepe",
+  "Apellido":"Bernal",
+  "correo":"pepe@gmail.com"},
+
+  {"Documento":200,
+  "Nombre":"Ramon",
+  "Apellido":"Bernal",
+  "correo":"ramon@gmail.com"}
+
+]
